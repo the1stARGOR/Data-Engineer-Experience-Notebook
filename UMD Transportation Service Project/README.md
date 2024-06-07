@@ -11,4 +11,4 @@ List of Items:
 8.  PowerPoint Stake Holder Presentation
 9. README.pdf that outlines some of the extra details of the project
 
-![stake holder presentation](/Image/Presentation_Image.jpg)
+![stake holder presentation](Image/Presentation_Image.jpg)
