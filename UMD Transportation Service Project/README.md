@@ -12,3 +12,5 @@ List of Items:
 9. README.pdf that outlines some of the extra details of the project
 
 ![stake holder presentation](Image/Presentation_Image.jpg)
+
+** Make sure to use Power Point to view the various animations added into the Presentation slides **
