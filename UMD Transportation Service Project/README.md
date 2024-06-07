@@ -13,4 +13,4 @@ List of Items:
 
 ![stake holder presentation](Image/Presentation_Image.jpg)
 
-** Make sure to use Power Point to view the various animations added into the Presentation slides **
+**Make sure to use Power Point to view the various animations added into the Presentation slides**
